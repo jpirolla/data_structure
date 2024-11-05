@@ -18,6 +18,9 @@
 ## Introdução
 Estruturas de dados são formas de organizar e armazenar dados para que possam ser acessados e manipulados de maneira eficiente. Cada estrutura é projetada para casos de uso específicos e possui vantagens e desvantagens dependendo do tipo de aplicação. 
 
+Este diretório tem como objetivo fornecer uma introdução ao tema, oferecendo uma visão geral das principais estruturas de dados e à medida que novas estruturas forem adicionadas, buscarei apresentar descrições mais detalhadas e exemplos práticos,
+ 
+
 ## Estruturas Lineares
 
 ### Arrays
