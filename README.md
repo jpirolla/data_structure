@@ -16,7 +16,7 @@
 7. [Referências](#referências)
 
 ## Introdução
-Estruturas de dados são formas de organizar e armazenar dados para que possam ser acessados e manipulados de maneira eficiente. Cada estrutura é projetada para casos de uso específicos e possui vantagens e desvantagens dependendo do tipo de aplicação. Compreender estruturas de dados é essencial para desenvolver algoritmos eficientes e é uma habilidade fundamental em programação.
+Estruturas de dados são formas de organizar e armazenar dados para que possam ser acessados e manipulados de maneira eficiente. Cada estrutura é projetada para casos de uso específicos e possui vantagens e desvantagens dependendo do tipo de aplicação. 
 
 ## Estruturas Lineares
 
