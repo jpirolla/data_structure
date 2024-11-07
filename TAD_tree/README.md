@@ -30,7 +30,10 @@ Uma árvore pode ser considerada um tipo especial de grafo:
 2. **Árvore Binária de Busca**: estrutura binária ordenada onde:
    - Todos os nós à esquerda são menores que o nó raiz.
    - Todos os nós à direita são maiores que o nó raiz.
-3. **B-árvore**: usada para armazenar dados em discos, onde um nó pode ter mais de dois filhos.
+3. **Árvore AVL**: uma árvore binária de busca balanceada, onde a diferença de altura entre as subárvores esquerda e direita de qualquer nó pode ser -1, 0 ou 1. Isso garante um desempenho eficiente (logarítmico) para inserções, exclusões e buscas.
+4. **Árvore Rubro-Negra**: uma árvore binária de busca auto-balanceada com regras que garantem que a árvore mantenha um bom equilíbrio. 
+5. **B-árvore**: usada para armazenar dados em discos, onde um nó pode ter mais de dois filhos.
+
 
 ## Operações em Árvores
 
