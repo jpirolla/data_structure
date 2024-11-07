@@ -1,4 +1,4 @@
-# Estrutura de Dados: Árvores
+# Árvores - Visão Geral
 
 Este repositório apresenta um resumo dos principais conceitos e operações relacionados à estrutura de dados **Árvore**. O foco é explorar árvores gerais e árvores binárias, com códigos que demonstram a estrutura básica do TAD. Conceitos mais avançados, como árvores-B, podem ser adicionados futuramente.
 
